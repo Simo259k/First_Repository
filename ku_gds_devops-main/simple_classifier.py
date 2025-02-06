@@ -7,8 +7,8 @@ from sklearn.inspection import DecisionBoundaryDisplay
 if __name__ == "__main__":
     n_neighbors = 15
 
-    skr
-    
+    HALLO
+
     # import some data to play with
     iris = datasets.load_iris()
 
